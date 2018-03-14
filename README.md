@@ -13,5 +13,7 @@
 
 4.  Plot_Fig2.jl (for 2 tenants) and Plot_Fig_general.jl (for more than 2 tenants)
 
-  * Folder figs2,3,4,5,6 store figures and output files (e.g. result1.h5 - output from algorithm 1) after running problem. 
+  * Folder figs2,3,4,5,6 store figures and output files (e.g. result1.h5 - output from algorithm 1) after running problem.
+  
+An additional statistical plot via seaborn in python by running `plot.py`
 
